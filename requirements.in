@@ -1,33 +1,40 @@
 argh
-black
 codecov
 flake8-import-order
-flake8
-flask-security-too
 flask-shell-ipython
 flask-sqlalchemy
 flask
-freezegun
 fuzzywuzzy
 python-Levenshtein
 gunicorn
 json_log_formatter
 mohawk
-numpy
-pandas
 psycopg2
 pycountry
 pytest-cov
 pytest-mock
-pytest
 python-dotenv
 pyyaml
 redis
 requests-oauthlib
 spacy
 sqlalchemy-utils
-sqlalchemy
 toolz
 watchdog
 werkzeug
 authlib
+
+# Dependabot Vulnerabilities
+aiohttp >= 3.9.2
+argh >= 0.31.2
+black==24.3.0
+cryptography==42.0.4
+flake8 >= 7.0.0
+flask-security-too==5.4.2
+freezegun >= 1.4.0
+jinja2 >= 3.1.3
+multidict == 6.0.5
+numpy >= 1.26.4
+pandas == 2.2.1
+pytest >= 8.1.1
+sqlalchemy >= 2.0.28
