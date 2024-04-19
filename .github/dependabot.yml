@@ -9,8 +9,7 @@ updates:
   open-pull-requests-limit: 10
   reviewers:
   - marcuspp
-  - dvoong
-  - kristof-bb
+  - niross
   ignore:
   - dependency-name: werkzeug
     versions:
